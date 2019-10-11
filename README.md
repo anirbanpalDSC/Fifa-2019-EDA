@@ -7,9 +7,11 @@ League information: https://sofifa.com/
 
 The Fédération Internationale de Football Association or FIFA is a non-profit organization which describes itself as an international governing body of association football, fútsal, beach soccer, and efootball. It is the highest governing body of football. (Wikipedia)
 Using the player stats and data, the project intends to do exploration of facts and questions like:
+
 1.	Which Club or National Team has the best-rated players?
 2.	What is the strength of a team at a particular position?
 3.	Which team has the best dribbling speed?
+
 Advanced analyses like:
 1.	Are players priced accurately? i.e. Is there a relationship between Market Value and Wages of Players?
 2.	What’s the ratio of total wages/ total potential for clubs? Which clubs are the most economical?
@@ -17,6 +19,7 @@ Advanced analyses like:
 4.	Co-relation between Age and Nationality?
 5.	Co-relation between Age and Potential?
 6.	Can we predict a player’s potential based on his skill set?
+
 Machine Learning model like:
 1.	Can we predict the Value of a player based on its attributes (like accuracy, shot power, reactions, dribbling etc.)?
 2.	According to the skill ratings of a player, can we predict what position they play in?
