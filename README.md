@@ -1,6 +1,8 @@
 # Fifa-2019-EDA
 Fifa 2019 Player and League EDA
+
 Player data: https://www.kaggle.com/karangadiya/fifa19 
+
 League information: https://sofifa.com/
 
 The Fédération Internationale de Football Association or FIFA is a non-profit organization which describes itself as an international governing body of association football, fútsal, beach soccer, and efootball. It is the highest governing body of football. (Wikipedia)
