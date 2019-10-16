@@ -22,9 +22,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisite
 To execute this project, you will need the following applications -
-* R (3.5+)
-* R Studio, Jupyter or any other editor
-
+* Python 3.7 and Jupyter Notebook OR Anaconda distribution
+* Following Python libraries:
+  gc, pandas_profiling, numpy, pandas, matplotlib, seaborn, sklearn
+  
 ### Installing
 This particular project does not require any installation other than the required softwares mentioned above.
 
